@@ -1,2 +1,5 @@
 hello second branch
+<<<<<<< HEAD
 modified from branch1
+modified from mysecondbranch
+
