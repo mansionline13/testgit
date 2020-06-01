@@ -1,12 +1,1 @@
-hello second branch
-
-modified from branch1
-modified from mysecondbranch
-
-again modified from branch1
-
-again modified from mysecondbranch
-
-modified 2 from mysecondbranch
-
-
+new
